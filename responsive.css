@@ -1,0 +1,1892 @@
+@media only screen and (max-width: 1366px){
+  .notification_ber{
+    margin-right: 70px;
+  }
+  .notice_ber, .action_heading, .date_due_tabel, .Cmp_Name, .fillter_tabel_header, .Units_content_tabel1, .sales_value_box_tabel, .table-responsive, .input_markating_fill_box_label{
+    overflow-x: auto;
+  }
+  .Worksheet_year_fill{
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .sumary_meat_goal{
+    flex-direction: column;
+  }
+  .Percentage_from_sellers_box, .Summary_To_Meet_Goal{
+    width: 100%;
+  }
+  .Percentage_from_mt{
+    width: 298px;
+  }
+  .Summary_To_Meet_Goal{
+    padding-right: 120px;
+  }
+  .Summary_To_Meet_Goal1, .Summary_To_Meet_Goal2, .Summary_To_Meet_Goal3, .Summary_To_Meet_Goal4{
+    justify-content: space-between;
+  }
+  .fill_box_label label{
+    text-wrap: nowrap;
+  }
+  .clicking{
+    overflow-x: auto;
+  }
+  .Dashboard{
+    width: 330px;
+  }
+  .side_box{
+    padding-left: 330px;
+  }
+  .calender_post_list{
+    gap: 40px;
+  }
+  .dasboard1{
+    display: none;
+  }
+  .dsgyd4, .dsgyd3, .hgih{
+    text-wrap: nowrap;
+  }
+  .input_markating_fill_box_label1{
+    overflow-x: auto;
+  }
+  .josidois{
+    padding-left: 40px;
+    padding-right: 10px;
+     text-wrap: nowrap;
+  }
+ .josidois1{
+    padding-left: 40px;
+  }
+  .josidois2{
+    text-wrap: nowrap;
+  }
+  .dsewqrtt, .Schedule_property_value_content_box{
+    flex-direction: column;
+  }
+  .Commissions_Prep_Costs_content_box, .My_Property_Values_content_box_list, .Schedule_content_box_panel, .gdteuiopo{
+    width: 100%;
+  }
+  .notification_ber{
+    margin-right: 28px;
+  }
+  .side_content{
+    margin-right: 28px;
+  }
+  .year_fill{
+    width: 100%;
+  }
+  .Worksheet_box{
+    padding: 20px;
+  }
+  .year_means{
+    margin-bottom: 10px;
+  }
+  .Transactions_form_tag_value{
+    flex-direction: column;
+  }
+  .Transactions_form_tag_value_fast{
+    width: 100%;
+    gap: 0;
+  }
+  .ouder_list, .four_no{
+    margin-left: 0;
+  }
+  .input_markating_fill_box_label{
+    margin-bottom: 15px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .data_due{
+    display: flex;
+    flex-direction: column;
+  }
+  .add_least1, .My_Tasks_tesk{
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  #kjh3{
+    width: 100%;
+    padding: 15px 0px;
+  }
+  .side_box1{
+    padding-left: 148px;
+  }
+  .dsgyd2{
+    text-wrap: nowrap;
+  }
+  .dsgyd{
+    gap: 10px;
+  }
+  #Date_Created15 {
+        background-position-x: 893px;
+    }
+    .Financial_code_width_content_box, .calender_post_list{
+        flex-direction: column;
+    }
+    .Financial_code_width_content_box_fast, .Financial_code_width_content_bx_fast1, .calender_post_button_list{
+        width: 100%;
+    }
+    .Schedule_Name_post_box{
+        height: 550px;
+    }
+  .leads_box, .side_box1{
+    width: 100%;
+  }
+  .Resources_pdf_profile_handaling_fast_tabel{
+    gap: 20px;
+  }
+  .pdf_icon_click, .pdf_label_box{
+  height: 350px;
+  }
+  .hgftremb{
+    height: 240px;
+  }
+  .hgftremb img{
+    height: 100%;
+  }
+  .cxdpmnt1{
+    top: 32%;
+  }
+  .cxdpmnt2, .cxdpmnt1, .cxdpmnt3{
+   font-size: 14px;
+  }
+}
+@media only screen and (max-width: 1080px) {
+  .Dashboard {
+    width: 270px;
+  }
+  .side_box {
+    padding-left: 120px;
+  }
+  .side_content {
+    margin-right: 45px;
+  }
+  .data_due{
+    gap: 15px;
+  }
+ .dasboard1{
+    display: block;
+ }
+ .ouder_list, .four_no{
+    margin-left: 0;
+ }
+ .t_b{
+    width: 38%;
+ }
+  .Units_Sold,
+  .Units_pending,
+  .Current_Transactions,
+  .Property,
+  .SWOT,
+  .Sales_btn {
+    width: 50%;
+  }
+  .notice_ber,
+  .action_heading,
+  .date_due_tabel,
+  .Marketing_Campaigns_content_box,
+  .Cmp_Name,
+  .fillter_tabel_header,
+  .Units_content_tabel1,
+  .sales_value_box_tabel,
+  .sales_value_month_tabel,
+  .task_list_content_box_tabel,
+  .table-responsive {
+    overflow-x: auto;
+  }
+  .Budget_record_plan_content_text_raw h2{
+    font-size: 22px;
+  }
+  .pdf_icon_click{
+    width: 100%;
+  }
+  .Resources_pdf_profile_handaling_fast_tabel{
+    gap: 15px;
+  }
+  .gguuhuio5, .gguuhuio4, .gguuhuio7{
+    padding-left: 40px;
+  }
+  .gguuhuio4{
+    text-wrap: nowrap;
+  }
+  .uhhhsvd{
+    width: 0;
+  }
+  .col_log button{
+    width: 25%;
+  }
+  .Home_buyers_text{
+    font-size: 18px;
+  }
+  .pdf_label_box{
+    height: 325px;
+  }
+  .mhdhds1012 {
+    text-wrap: nowrap;
+  }
+  .Units_pending {
+    padding: 20px;
+  }
+  .Summary_To_Meet_Goal {
+    padding: 20px 70px 20px 20px;
+  }
+  .mhdghds1012 {
+    padding-right: 10px;
+  }
+  .year_fill {
+    width: 55%;
+  }
+  .Worksheet_box {
+    padding: 20px;
+  }
+  .jhkha {
+    width: 280px;
+  }
+  .zaq {
+    font-size: 24px;
+  }
+  .Gross_Revenue2 p,
+  .Gross_Revenue3 p {
+    font-size: 22px;
+  }
+  .zaq,
+  .zaq1 {
+    font-size: 22px;
+  }
+  .Summary_To_Meet_Goal1,
+  .Summary_To_Meet_Goal2,
+  .Summary_To_Meet_Goal3,
+  .Summary_To_Meet_Goal4 {
+    justify-content: space-between;
+  }
+  #kjh,
+  #kjh1,
+  #kjh2 {
+    width: 100%;
+    padding: 0px 5px;
+  }
+  .Save_change_b_tn {
+    width: 100%;
+    padding: 15px 0px;
+  }
+  .d_p_c_content_box,
+  .calender_post_button_list {
+    width: 100%;
+  }
+  .notification_ber {
+    margin-right: 45px;
+  }
+  .b_tn,
+  .Sales_btn,
+  .SWOT,
+  .save_change,
+  .Add_Schedule_button,
+  .save_change1,
+  .Save_change_b_tn12, .save_chnge111100 {
+    font-size: 18px;
+  }
+  .col_log button{
+    width: 100%;
+    padding: 15px 0px;
+  }
+  .col_log{
+    width: 100%;
+    gap: 15px;
+  }
+  .col_log a{
+    padding: 15px 0px;
+  }
+  .add_least1{
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .Hello_text h1,
+  .side_content h1 {
+    font-size: 36px;
+     margin-bottom: 10px;
+  }
+  .calender_post_list {
+    flex-direction: column;
+  }
+  .dasboard1{
+    width: 0;
+  }
+  #Date_Created15{
+    background-position-x: 810px;
+  }
+  .Calender_content_box, .Calender_content_box1, .Calender_content_box2{
+    width: 100%;
+  }
+  .Schedule_Name_post_box{
+    height: 550px;
+  }
+  .Transactions_form_tag_value{
+    flex-direction: column;
+    gap: 0;
+  }
+  .Transactions_form_tag_value_fast{
+    width: 100%;
+  }
+  .Calender_content_box,
+  .Calender_content_box1,
+  .Calender_content_box2,
+  
+  .Calender_content_box1,
+  .Calender_content_box2 {
+    margin-bottom: 0px;
+  }
+  .november_list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .p_n_btn,
+  .W_D_M,
+  .date_content {
+    width: 33.33%;
+  }
+  .date_content h2 {
+    text-align: center;
+  }
+
+  .Units_Sold h4,
+  .doller_text1 h4 {
+    font-size: 26px;
+    margin-bottom: 20px;
+  }
+  .Current_Transactions_part {
+    gap: 20px;
+  }
+  .Schedule_property_value_content_box, .dsewqrtt{
+    flex-direction: column;
+  }
+  .Commissions_Prep_Costs_content_box, .gdteuiopo{
+    width: 100%;
+  }
+  .Schedule_content_box_panel, .My_Property_Values_content_box_list{
+    width: 100%;
+  }
+  .Units_Sold p,
+  .doller_text1 p,
+  .mwd_bt,
+  .b_tn10,
+  .Save_change_b_tn,
+  .b_tn101,
+  .t_b,
+  .save_change111,
+  .save_change11,
+  .See_All_Leads,
+  .Add_Lead_btn,
+  .Add_Leads,
+  .col_log button,
+  .add_client_button, .save_change100, .save_change1001, .save_change99, .save_change1111 {
+    font-size: 18px;
+  }
+
+  .leads_box {
+    padding-bottom: 20px;
+  }
+  .Dashboard10 {
+    width: 120px;
+  }
+  .jhdks1012, .huidfoikfdo, .jhds1012, .price_pool_rate_zone_text, .price_pool_rate_zone_text1, .gguuhuio1{
+    text-wrap: nowrap;
+    padding-left: 40px;
+  }
+  .gguuhuio2{
+    padding-left: 40px;
+  }
+.Dashboard{
+  display: none;
+}
+  .side_box1 {
+    padding-left: 120px;
+  }
+  .clicking {
+    overflow-x: auto;
+  }
+  .fill_box_label {
+    text-wrap: nowrap;
+  }
+  .side_box1 {
+    width: 100%;
+  }
+  .logo h2 {
+    font-size: 38px;
+  }
+  .jhfdks101,
+  .jhfdks1011{
+    padding-left: 40px;
+    text-wrap: nowrap;
+  }
+  .jhfdks1012{
+    padding-left: 40px;
+  }
+  .dsgyd2, .dsgyd1{
+    padding-left: 40px;
+    padding-right: 10px;
+  }
+  .dsgyd{
+    gap: 10px;
+  }
+  .See_All_Leads,
+  .Add_Lead_btn {
+    width: 50%;
+  }
+  .action_button23 {
+    gap: 10px;
+  }
+  .graph_chart_content {
+    gap: 10px;
+  }
+  .jhpds1012{
+    padding-left: 40px;
+  }
+  .dsgyd2{
+    text-wrap: nowrap;
+  }
+  .save_change11110{
+    font-size: 18px;
+  }
+  .mbose{
+    font-size: 18px;
+  }
+  .Projected_array_function1 h2, .ojdejdha{
+    font-size: 22px;
+  }
+  .cxdpmnt2,
+  .cxdpmnt1,
+  .cxdpmnt3 {
+    font-size: 11px;
+  }
+  .cxdpmnt3 {
+    bottom: 16px;
+  }
+  .fast_row1 a {
+    height: 114px;
+  }
+  .cxdpmnt1 {
+    top: 36%;
+  }
+  .graph_content_fast_box,
+  .graph_content_fast_box2,
+  .graph_content_fast_box3 {
+    padding: 15px;
+  }
+  .sdjkfjhk1,
+  .sdjkfjhk {
+    padding-left: 20px;
+    padding-right: 10px;
+  }
+  .Dashboard_type a {
+    font-size: 22px;
+  }
+  .Calender_content_box13,
+  .Calender_content_box14 {
+    margin-bottom: 0px;
+  }
+  .fast_row1 a {
+    padding: 10px 36px;
+  }
+  .doller_box {
+    gap: 20px;
+  }
+  .date_content h2,
+  .Worksheet_year_fill1 h2,
+  .Worksheet_box h2 {
+    font-size: 22px;
+  }
+  .november_list {
+    padding: 10px 10px;
+  }
+  .Worksheet_box h2 {
+    margin-bottom: 35px;
+  }
+
+  .sumary_meat_goal, .add_least {
+    flex-direction: column;
+  }
+  .add_least{
+    align-items: flex-start;
+  }
+  .Percentage_from_mt {
+    width: 298px;
+  }
+  .Summary_To_Meet_Goal,
+  .Percentage_from_sellers_box {
+    width: 100%;
+  }
+  .My_Tasks_tesk {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  #kjh3 {
+    width: 100%;
+    padding: 15px 0px;
+    font-size: 18px;
+  }
+  .data_due11 h3 {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .Current_Transactions_part {
+    flex-direction: column;
+    gap: 40px;
+  }
+  .input_markating_fill_box_label1{
+    overflow-x: auto;
+  }
+.cxdpmnt1 {
+  display: block;
+  line-height: 1.4em;
+  max-height: 2.8em; /* 2 line = 1.4 × 2 */
+  overflow: hidden;
+  top: 35%;
+  font-size: 12px;
+}
+.cxdpmnt2 {
+  display: inline-block;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  top: 69%;
+}
+.week_sub_text{
+    padding: 0px 20px;
+}
+.cxdpmnt3 {
+  display: block;
+  line-height: 1.4em;
+  max-height: 2.8em; /* 2 line = 1.4 × 2 */
+  overflow: hidden;
+  bottom: 20px;
+}
+  .data_due{
+    display: flex;
+    flex-direction: column;
+  }
+  .Calender_content_box13,
+  .Calender_content_box14 {
+    margin-bottom: 0px;
+  }
+  .flag_panel_on_mode1{
+    width: 100%;
+  }
+  .xyz_cen{
+    flex-direction: column;
+    align-items: flex-start;
+     gap: 2px;
+     margin-bottom: 30px;
+  }
+  .Transactions_form_tag_value{
+    flex-direction: column;
+  }
+  .Transactions_form_tag_value{
+    gap: 5px;
+  }
+  .Transactions_form_tag_value_fast{
+    width: 100%;
+  }
+  .data_due1000{
+    width: 100%;
+  }
+  .Client_box,
+  .doller_box,
+  .Cmp_Name,
+  .date_due_tabel,
+  .action_heading,
+  .notice_ber,
+  .table-responsive,
+  .calender_fast_row,
+  .month_text,
+  .client_content_content_box1 {
+    overflow-x: auto;
+  }
+  #kjh2,
+  #kjh1,
+  #kjh,
+  .d_p_c_content_box,
+  #kjh3,
+  .Property,
+  .Current_Transactions,
+  .Units_Sold,
+  .Units_pending,
+  .Budget_record_plan_content_list_box_fast1,
+  .Percentage_from_sellers_box,
+  .Summary_To_Meet_Goal,
+  .calender_post_button_list,
+  .pdf_label_box,
+  #bhwrxd,
+  .Budget_record_plan_content_list_box_fast,
+  .gumtrp {
+    width: 100%;
+  }
+  .calender_post_list,
+  .Resources_pdf_profile_handaling_fast_tabel,
+  .my_resources_lead,
+  .Budget_record_plan_content_list_box,
+  .doller_box,
+  .sumary_meat_goal {
+    flex-direction: column;
+  }
+  .Save_change_b_tn12,
+  .b_tn101,
+  #data_due_block,
+  .save_change111,
+  .b_tn10,
+  .flag_panel_on_mode label,
+  .modify_bt_n2,
+  .modify_bt_n1,
+  .b_tn,
+  .modify_bt_n3,
+  .modify_bt_n,
+  .col_log button,
+  #Date_Created15,
+  .Add_Schedule_button,
+  .save_change11,
+  .Add_Leads,
+  .add_client_button,
+  .ssd_bt-n1,
+  .save_change100,
+  .save_change1001,
+  .save_change1111,
+  .save_change111100,
+  .send_me,
+  .gripogyds a,
+  .cl3,
+  .high_bt11,
+  .SWOT,
+  .Sales_btn,
+  .save_change,
+  .See_All_Leads,
+  .Add_Lead_btn,
+  .col_log button,
+  .col_log a,
+  .Calculate_Expense_bt_n,
+  .mwd_bt.mwd_active,
+  .mwd_bt {
+    font-size: 18px;
+  }
+  .dsgyd4,
+  .dsgyd3,
+  .jhdks1012,
+  .jhds1012,
+  .jhfdks1011,
+  .jhfdks1012,
+  .jhfdks101,
+  .jhfdks1001,
+  .mhdghds1012,
+  .mhdhds1012,
+  .sdjkfjhk1,
+  .sdjkfjhk,
+  .sdjyfjhk1,
+  .sdlyfjhk1,
+  .jhkh1,
+  .jhfdks100,
+  .gguuhuio1,
+  .gguuhuio1,
+  .gguuhuio2,
+  .gguuhuio5,
+  .gguuhuio4,
+  .padr,
+  .padr1 {
+    padding-left: 40px;
+    padding-right: 10px;
+  }
+  .Sales_btn,
+  .SWOT,
+  .Calculate_Expense_button,
+  .data_due457 {
+    width: 50%;
+  }
+  .jhfdks0021,
+  .jhfdks001,
+  .sdjyfjhk1,
+  .jhkha,
+  .padr1 {
+    text-wrap: wrap;
+  }
+  .Property_img img {
+    width: 100%;
+    height: 100%;
+  }
+  .color_panel {
+    gap: 30px;
+    justify-content: center;
+  }
+  .input_query_ber {
+    margin-bottom: 20px;
+  }
+  .Dashboard {
+    display: none;
+  }
+
+  .side_content {
+    margin-right: 0;
+  }
+  .Dashboard10 {
+    width: 100px;
+    z-index: 9999999999999999;
+  }
+  .side_box1 {
+    padding-left: 100px;
+  }
+  .side_content {
+    padding: 0px 15px 0px 15px;
+  }
+  .top_header {
+    padding: 0px 0px 0px 15px;
+  }
+  .side_box {
+    padding-left: 100px;
+  }
+
+  .logo h2 {
+    font-size: 30px;
+  }
+  .My_Tasks_tesk,
+  .my_resources_lead,
+  .add_least,
+  .add_least1 {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .notification_ber {
+    margin-right: 15px;
+  }
+  #kjh3,
+  .save_change1 {
+    text-align: center;
+    font-size: 18px;
+  }
+  .col_log button {
+    padding: 10px 24px;
+  }
+  .data_due11 h3 {
+    font-size: 20px;
+  }
+  .modify_bt_n {
+    width: 90%;
+  }
+  .Worksheet_box {
+    padding: 20px;
+  }
+  .ouder_list, .ouder_list p{
+    margin-left: 0;
+  }
+  .zaq,
+  .Worksheet_year_fill1 h2,
+  .Summary_To_Meet_Goal h2,
+  .zaq1,
+  .Budget_record_plan_content_text_raw h2,
+  .ojdejdha,
+  .date_content h2 {
+    font-size: 22px;
+  }
+
+  .sales_value_text,
+  .Worksheet_year_fill,
+  .d_p_c_content_box,
+  .input_markating_fill_box_label {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .Worksheet_year_fill {
+    gap: 5px;
+  }
+  .mt_ew,
+  .mt_ew1,
+  .year_fill,
+  .Calender_content_box,
+  .Calender_content_box1,
+  .Calender_content_box2,
+  .Financial_code_width_content_bx_fast1,
+  .Financial_code_width_content_box_fast {
+    width: 100%;
+  }
+  .graph_chart_content {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .dasboard1 {
+    display: block;
+  }
+  .fillter_tabel_header,
+  .table-responsive,
+  .jhkh1 {
+    text-wrap: nowrap;
+  }
+  .cxdpmnt1,
+  .cxdpmnt2,
+  .cxdpmnt3 {
+    font-size: 12px;
+  }
+ 
+  .fast_row1 a {
+    padding: 10px 29px;
+  }
+  .side_content h1 {
+    font-size: 30px;
+  }
+  .Financial_code_width_content_box {
+    flex-direction: column;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .Dashboard {
+    display: none;
+  }
+  .chart-container{
+    width: 100%;
+    height: 100%;
+  }
+  .side_content h3{
+    font-size: 18px;
+  }
+  .ouder_list p, .informed{
+    font-size: 16px;
+  }
+  .hkjnjnj{
+    padding-left: 40px;
+    text-wrap:wrap;
+  }
+  .hihud{
+    width:200px;
+  }
+  .markating{
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .my_profile, .Personal_Information{
+    padding-bottom: 20px;
+  }
+  .my_profile{
+    margin-top: 0;
+  }
+  .ouder_list, .four_no{
+    margin-left: 0;
+  }
+.My_Properties{
+    font-size: 20px;
+}
+.green, .y_yellow, .red{
+    font-size: 16px;
+    padding: 5px 10px;
+}
+.clicking{
+    overflow-x: auto;
+}
+.dasboard1{
+    width: 0px;
+}
+.jhfdks0021, .jhfdks001, .sdjyfjhk1{
+    text-wrap: nowrap;
+}
+.input_markating_fill_box_label1{
+    overflow-x: auto;
+}
+.p_n_btn, .W_D_M, .date_content{
+    width: 100%;
+    justify-content: center;
+}
+.save_change111100{
+    font-size: 16px;
+}
+.table-responsive{
+    overflow-x: auto;
+}
+.Transactions_form_tag_value{
+    flex-direction: column;
+    gap: 5px;
+}
+.Client_Documents_content_shadow_box{
+    padding: 10px;
+}
+.Transactions_form_tag_value_fast{
+    width: 100%;
+}
+.fast_row1 a{
+    padding: 10px 15px;
+}
+.Thursday_auto_content_pra{
+    overflow-y: scroll;
+}
+.week_sub_text{
+    padding: 0px 10px;
+}
+#Date_Created15 {
+        background-position-x: 305px;
+    }
+.cxdpmnt1 {
+  display: block;
+  line-height: 1.4em;
+  max-height: 2.8em; /* 2 line = 1.4 × 2 */
+  overflow: hidden;
+  top: 35%;
+  font-size: 12px;
+}
+
+.cxdpmnt2 {
+  display: inline-block;
+  max-width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  top: 74%;
+}
+.cxdpmnt3 {
+  display: block;
+  line-height: 1.4em;
+  max-height: 2.8em; /* 2 line = 1.4 × 2 */
+  overflow: hidden;
+  bottom: 12px;
+}
+  .Calender_content_box13,
+  .Calender_content_box14 {
+    margin-bottom: 0px;
+  }
+  .side_box1 {
+    padding-left: 0px;
+  }
+  .top_header {
+    display: block;
+  }
+  .W_D_M{
+    width: 100%;
+  }
+  .dasboard1 {
+    display: block;
+  }
+  .d_p_c_content_box {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+  .graph_chart_content {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    padding: 5px;
+  }
+  #myChart {
+    width: 100%;
+  }
+  #kjh3 {
+    text-align: center;
+  }
+  .Dashboard10 {
+    padding: 15px 0px;
+    width: 80px;
+    position: fixed;
+  }
+  .Current_Transactions_part {
+    flex-direction: column;
+    width: 100%;
+    gap: 25px;
+  }
+  .doller_box {
+    flex-direction: column;
+    margin-bottom: 30px;
+    gap: 20px;
+  }
+  .Units_Sold h4 {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .hot_lead {
+    width: 100%;
+  }
+  .doller_text1 p {
+    font-size: 16px;
+  }
+  .side_box1 {
+    width: 75%;
+  }
+  .side_content {
+    width: 100%;
+  }
+  .Hello_auto {
+    width: 100%;
+  }
+  .top_header {
+    padding: 0px 10px;
+  }
+  .Property {
+    width: 100%;
+  }
+  .side_content {
+    padding: 0 10px;
+    margin: 0;
+    width: 100%;
+  }
+  .calender_full_content {
+    width: 100%;
+  }
+  .side_box {
+    padding-left: 80px;
+    width: 100%;
+  }
+  .notification_ber {
+    gap: 15px;
+  }
+  .logo h2 {
+    font-size: 26px;
+  }
+  .Agent_page {
+    width: 100%;
+  }
+  .Hello_text h1 {
+    font-size: 30px;
+    margin-bottom: 5px;
+  }
+  .Units_Sold {
+    width: 100%;
+  }
+  .Units_pending {
+    width: 100%;
+  }
+  .Current_Transactions {
+    width: 100%;
+  }
+  .Client_name p {
+    font-size: 16px;
+  }
+  .Client_pra p {
+    font-size: 16px;
+  }
+  .Michael_Miner_text p {
+    font-size: 16px;
+  }
+  .Michael_Miner_pra p {
+    font-size: 16px;
+  }
+  .b_tn {
+    font-size: 16px;
+    text-align: center;
+  }
+  .jhfdks001 {
+    width: 390px;
+  }
+  .Client_box {
+    text-wrap: nowrap;
+  }
+  .Client_pra {
+    gap: 30px;
+  }
+  .Michael_Miner1 {
+    padding-right: 22px;
+  }
+
+  .Property_img {
+    text-align: center;
+  }
+  .color_panel {
+    justify-content: center;
+  }
+  .eight {
+    font-size: 36px;
+  }
+  .doller_text p {
+    font-size: 16px;
+  }
+
+  .doller_text1 h4 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  #This_Year {
+    font-size: 16px;
+  }
+
+  .notice_ber p {
+    font-size: 16px;
+  }
+
+  .email_add p {
+    font-size: 16px;
+  }
+
+  .Current_Transactions h2 {
+    font-size: 20px;
+  }
+
+  .top_placeholder {
+    display: none;
+  }
+  .Category_content {
+    gap: 0;
+  }
+  .Category_content1 {
+    gap: 0;
+  }
+  .hot_lead h2 {
+    font-size: 20px;
+  }
+  .message_center h2 {
+    font-size: 20px;
+  }
+  .Transaction_Task_List h2 {
+    font-size: 20px;
+  }
+  .Marketing_Campaign_Management h2 {
+    font-size: 20px;
+  }
+  .date_content h2 {
+    font-size: 20px;
+  }
+  .my_long_team h2 {
+    font-size: 20px;
+  }
+  .traning_section h2 {
+    font-size: 20px;
+  }
+
+  .support_contact2 p {
+    margin: 0;
+  }
+  .support_contact3 p {
+    margin: 0;
+  }
+  .date_fetch p {
+    margin: 0;
+    padding: 0;
+  }
+  .date_fetch1 p {
+    margin: 0;
+  }
+  .rew1 {
+    padding: 0;
+  }
+  .support_contact12 p {
+    margin: 0;
+  }
+  .support_contact13 p {
+    margin: 0;
+  }
+  .running_date1 {
+    padding: 0;
+  }
+  .rew11 {
+    padding: 0;
+  }
+.input_markating_fill_box_label h2{
+    font-size: 20px;
+}
+.social_btn_list{
+    gap: 15px;
+}
+  .cxdpmnt2 {
+    font-size: 12px;
+  }
+  .cxdpmnt3 {
+    font-size: 12px;
+  }
+  .week_text1 a {
+    font-size: 16px;
+  }
+  .fast_row1 a {
+    font-size: 16px;
+  }
+  .fast_row1 a {
+    height: 100px;
+  }
+  .month_text,
+  .calender_fast_row {
+    overflow-x: auto;
+  }
+  .t_b {
+    font-size: 16px;
+  }
+  .mwd_bt.mwd_active {
+    font-size: 16px;
+  }
+  .date_content {
+    display: none;
+  }
+  .p_n_btn {
+    display: none;
+  }
+  .mwd_bt {
+    font-size: 16px;
+  }
+  .side_content h1 {
+    font-size: 30px;
+    margin-bottom: 10px;
+  }
+  .Sales_btn {
+    font-size: 16px;
+    text-align: center;
+  }
+  .SWOT {
+    font-size: 16px;
+    text-align: center;
+  }
+  .set_up_btn {
+    gap: 20px;
+  }
+  .My-Long-Term-Goal-Task-List h2 {
+    font-size: 20px;
+  }
+  .Projections {
+    margin-bottom: 10px;
+  }
+  .pdf_for {
+    font-size: 12px;
+  }
+  .upload_file_png {
+    font-size: 16px;
+  }
+  .save_change {
+    font-size: 16px;
+  }
+  .label_block {
+    font-size: 18px;
+  }
+  .My-Long-Term-Goal-Task-List h2 {
+    margin-bottom: 12px;
+  }
+  .fillter_tabel_header p {
+    font-size: 16px;
+    margin: 0;
+  }
+  .Category-1 p {
+    font-size: 16px;
+    margin: 0;
+  }
+  .Strengths {
+    font-size: 18px;
+  }
+  .input_query_ber {
+    margin-bottom: 25px;
+  }
+  .save_change {
+    margin-top: 30px;
+  }
+  .Worksheet_box h2 {
+    font-size: 20px;
+    margin: 0;
+  }
+  .Worksheet_box {
+    padding: 20px;
+  }
+  .year_fill {
+    width: 100%;
+  }
+  .Worksheet_year_fill {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .sumary_meat_goal {
+    flex-direction: column;
+  }
+  .Worksheet_year_fill1 {
+    gap: 0;
+  }
+  .Percentage_from_sellers_box {
+    width: 100%;
+  }
+  .four_persent {
+    width: 100%;
+  }
+  .Percentage_from_buyers_typing {
+    flex-direction: row-reverse;
+    border-bottom: 1px solid #000000;
+    width: 100%;
+  }
+  .Summary_To_Meet_Goal {
+    width: 100%;
+    padding: 20px;
+  }
+  .Summary_To_Meet_Goal p {
+    font-size: 18px;
+  }
+  .Summary_To_Meet_Goal1 {
+    gap: 0;
+    justify-content: space-between;
+  }
+  .Summary_To_Meet_Goal4 {
+    gap: 0;
+    justify-content: space-between;
+  }
+  .Summary_To_Meet_Goal2 {
+    gap: 0;
+    justify-content: space-between;
+  }
+  .Summary_To_Meet_Goal h2 {
+    font-size: 22px;
+  }
+  .Percentage_from_mt {
+    height: auto;
+  }
+  .year_means {
+    margin-bottom: 10px;
+  }
+  .Gross_Revenue3 {
+    padding: 0;
+  }
+  .Gross_Revenue1 {
+    padding: 5px;
+    width: 40%;
+    align-items: center;
+    display: flex;
+  }
+  .Percentage_from_buyers_prop {
+    width: 60%;
+  }
+  .Percentage_from_mt {
+    width: 40%;
+  }
+  .Gross_Revenue2 {
+    width: 30%;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .Percentage_partten {
+    width: 60%;
+  }
+  .Percentage_partten14 {
+    width: 100%;
+  }
+  .Percentage_partten1 {
+    width: 100%;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .Percentage_partten2 {
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+  }
+  .Gross_Revenue3 {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .mj1 {
+    padding: 5px;
+    width: 100%;
+    font-size: 16px;
+    border-right: 1px solid #000000;
+  }
+  .mj {
+    padding: 5px;
+    width: 100%;
+    font-size: 16px;
+    border-right: 0px;
+  }
+  .four_persent {
+    padding-left: 5px;
+  }
+  .Gross_Revenue2 p,
+  .Gross_Revenue3 p {
+    font-size: 18px;
+    padding: 5px;
+  }
+  .sales_value_month_tabel p {
+    margin: 0;
+    text-wrap: nowrap;
+  }
+  .oi1 {
+    width: 20%;
+  }
+  .b_tn10 {
+    font-size: 16px;
+  }
+  .Units_content_box h2 {
+    font-size: 20px;
+  }
+  .Gross_Revenue1 p {
+    font-size: 14px;
+    width: 100%;
+  }
+  .Units_content_tabel1 {
+    width: 100%;
+    overflow-x: auto;
+    text-wrap: nowrap;
+  }
+  .Units_content_tabel1 p {
+    font-size: 16px;
+  }
+  #kjh3,
+  #kjh,
+  #kjh1,
+  #kjh2 {
+    width: 100%;
+    font-size: 16px;
+    padding: 10px 7px;
+    text-align: center;
+    margin: 0;
+  }
+  .short_code {
+    font-size: 18px;
+  }
+  .Save_change_b_tn {
+    width: 100%;
+    padding: 10px 0px;
+    font-size: 16px;
+  }
+  #data_due_block {
+    font-size: 16px;
+  }
+  #Date_Created15 {
+    font-size: 16px;
+  }
+  .data_due {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+  }
+  .Add_Task_content_box2 {
+    padding-bottom: 13px;
+  }
+  #Date_Created6 {
+    font-size: 16px;
+  }
+  .flag_panel_on_mode label {
+    font-size: 16px;
+  }
+  .b_tn101 {
+    font-size: 16px;
+  }
+  .d_p_c_content_box {
+    flex-direction: column;
+    gap: 10px;
+    margin: 0;
+  }
+  .task_list_content_box {
+    overflow-x: auto;
+  }
+  .notice_ber {
+    text-wrap: nowrap;
+    overflow-x: auto;
+  }
+  .action_heading {
+    overflow-x: auto;
+  }
+  .Date_created_tabel {
+    overflow-x: auto;
+  }
+  .Save_change_b_tn12 {
+    font-size: 16px;
+  }
+  .side_box {
+    padding-left: 80px;
+  }
+  .data_due11 h3 {
+    font-size: 22px;
+  }
+  .col_log button {
+    width: 100%;
+    padding: 10px 0px;
+    font-size: 16px;
+  }
+  .col_log {
+    width: 100%;
+    flex-direction: column;
+  }
+  .col_log a {
+    font-size: 16px;
+    padding: 10px 0px;
+    width: 100%;
+    text-align: center;
+  }
+  .add_least {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+  }
+  .client_content_content_box h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  .data_due {
+    gap: 0;
+  }
+  .client_content_content_box {
+    padding-bottom: 25px;
+  }
+  .sre1 {
+    font-size: 16px;
+  }
+  .input_markating_fill_box_label {
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-start;
+  }
+  .add_client_button {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .modify_btn_button {
+    width: 100%;
+  }
+  .modify_bt_n {
+    font-size: 16px;
+  }
+  .modify_bt_n1 {
+    font-size: 16px;
+  }
+  .modify_bt_n2 {
+    font-size: 16px;
+  }
+  .modify_bt_n3 {
+    font-size: 16px;
+  }
+  .modify_bt_n1 {
+    width: 87%;
+  }
+  .modify_bt_n2 {
+    width: 74%;
+  }
+  .modify_bt_n3 {
+    width: 65%;
+  }
+  .save_change11 {
+    font-size: 16px;
+  }
+
+  .bvxfer13,
+  .bvxfer12,
+  .bvxfer16,
+  .bvxfer91 {
+    font-size: 16px;
+  }
+  .table-responsive {
+    width: 100%;
+    text-wrap: nowrap;
+    overflow-x: auto;
+  }
+  .save_chnge111100 {
+    font-size: 16px;
+  }
+  .jiud {
+    font-size: 20px;
+  }
+  .Property_img img {
+    width: 100%;
+    height: 100%;
+  }
+  .color_panel {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .Properties_To_Sell_second_tabel {
+    overflow-x: auto;
+  }
+  .ert6,
+  .ert60 {
+    width: 90%;
+    font-size: 16px;
+  }
+  .Resources_pdf_profile_handaling_fast_tabel {
+    flex-direction: column;
+    gap: 25px;
+  }
+  .pdf_label_box {
+    width: 100%;
+  }
+  #bhwrxd {
+    width: 100%;
+    padding: 10px 5px;
+  }
+  .my_resources_lead {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  .Home_buyers_text {
+    font-size: 16px;
+  }
+  .Home_buyers_text_pra p {
+    font-size: 16px;
+  }
+  .ssd_bt-n1 {
+    font-size: 16px;
+  }
+  .download_icon_content_panel1 {
+    width: 30px;
+    height: 30px;
+  }
+  .save_change1 {
+    font-size: 16px;
+  }
+  .gumtrp {
+    flex-direction: column;
+    width: 100%;
+    gap: 0;
+    margin-bottom: 20px;
+  }
+  .Calculate_Expense_bt_n {
+    text-align: center;
+    font-size: 16px;
+    width: 100%;
+  }
+  .Calculate_Expense_button {
+    width: 100%;
+  }
+  .data_due457 {
+    width: 100%;
+  }
+  .data_due1 {
+    margin-bottom: 10px;
+  }
+  .geij a {
+    font-size: 14px;
+  }
+  .Calculate_Expenses_content_box_redew {
+    flex-direction: column;
+  }
+  .Calculate_Expenses_content_box_redew2 {
+    width: 100%;
+  }
+  .Calculate_Expenses_content_box_redew1 {
+    width: 100%;
+  }
+  .Calculate_Expenses_content_fast {
+    font-size: 16px;
+    overflow-x: auto;
+  }
+  .total_text_live {
+    padding-left: 0;
+  }
+  .total_text_live {
+    font-size: 16px !important;
+  }
+  .b_tn48 {
+    font-size: 16px;
+    padding: 10px 0px;
+  }
+  .Quarterly_Tax_text {
+    font-size: 20px;
+  }
+  .Quarterly_Tax_text_fast_box_tabel P {
+    font-size: 16px;
+  }
+
+  #Date_Creatd5 {
+    font-size: 16px;
+  }
+  .Quarterly_Tax_text_fast_box_tabel {
+    gap: 15px;
+    overflow-x: auto;
+  }
+  .Expense_List_content_box_tabel_fast {
+    overflow-x: auto;
+  }
+  .bvxfer3,
+  .bvxfer5,
+  .bvxfer55,
+  .bvxfer7,
+  .bvxfer9,
+  .bvxfer8,
+  .High10,
+  .High11,
+  .bvxfer71,
+  .bvxfer92,
+  .gripogyds a,
+  .high_bt11,
+  .high_bt,
+  .bvxfer2,
+  .bvxfer,
+  .bvxfer505,
+  .bvxfer30 {
+    font-size: 16px;
+  }
+
+  .sample,
+  .You1,
+  .rong_time {
+    padding-right: 10px;
+  }
+  .Cmp_Name {
+    overflow-x: auto;
+  }
+  .date_due_tabel {
+    overflow-x: auto;
+  }
+  .high_bt11 {
+    width: 55%;
+  }
+  .gripogyds a {
+    width: 80%;
+  }
+  .high_bt {
+    width: 65%;
+  }
+  .send_me {
+    width: 100%;
+    padding: 10px 0px;
+  }
+  .sales_value_box_tabel {
+    text-wrap: nowrap;
+    overflow-x: auto;
+  }
+  .bvxfer701 {
+    font-size: 16px;
+  }
+  .bvxfer902 {
+    font-size: 16px;
+  }
+  .sales_value_text h2 {
+    font-size: 20px;
+  }
+  .sales_value_month_tabel {
+    overflow-x: auto;
+  }
+  .hot_lead_fast_tabel1 {
+    overflow-x: auto;
+  }
+  .hot_lead_fast_tabel1111 {
+    overflow-x: auto;
+  }
+  .side_box1 {
+    width: 400px;
+  }
+  .bvxfer39 {
+    font-size: 16px;
+  }
+  .bvxfer5055 {
+    font-size: 16px;
+  }
+  tr th {
+    font-size: 16px;
+  }
+  tr td {
+    font-size: 16px;
+  }
+  .save_change111 {
+    font-size: 16px;
+  }
+  .See_All_Leads,
+  .Add_Lead_btn {
+    font-size: 16px;
+  }
+  .jhfdks101,
+  .dsgyd2 {
+    text-wrap: nowrap;
+  }
+  .dsgyd,
+  .action_button23 {
+    gap: 10px;
+  }
+  .input_markating_fill_box_label label {
+    font-size: 20px;
+  }
+  .save_change100,
+  .Add_Leads,
+  .save_change1001 {
+    font-size: 16px;
+  }
+  .My_Listing_Link_to_MLS_Entry h2 {
+    font-size: 20px;
+  }
+  .save_change1111 {
+    font-size: 16px;
+  }
+  .Properties_content_Viewed_box_fast_tabel {
+    overflow-x: auto;
+    text-wrap: nowrap;
+  }
+  .dsgyd3 {
+    text-wrap: nowrap;
+  }
+  .Schedule_property_value_content_box {
+    flex-direction: column;
+  }
+  .Schedule_content_box_panel {
+    width: 100%;
+  }
+  .My_Property_Values_content_box_list {
+    width: 100%;
+  }
+  .dsewqrtt {
+    flex-direction: column;
+  }
+  .Budget_record_plan_content_list_box {
+    flex-direction: column;
+  }
+  .Budget_record_plan_content_list_box_fast {
+    width: 100%;
+  }
+  .Budget_record_plan_content_list_box_fast1 {
+    width: 100%;
+  }
+  .Budget_record_plan_content_text_raw textarea {
+    width: 140px;
+  }
+  .Budget_record_plan_content_text_raw h2 {
+    font-size: 20px;
+  }
+  .mbose {
+    font-size: 16px;
+  }
+  #diu40,
+  #diu144,
+  #diu39,
+  #diu38,
+  #diu37,
+  #diu36,
+  #diu35,
+  #diu34,
+  #diu33,
+  #diu32,
+  #diu31,
+  #diu30,
+  #diu29,
+  #diu28,
+  #diu27,
+  #diu26,
+  #diu25,
+  #diu24,
+  #diu23,
+  #diu22,
+  #diu21,
+  #diu20,
+  #diu18,
+  #diu17,
+  #diu16,
+  #diu15,
+  #diu14 {
+    width: 160px;
+  }
+  .property_adderes_list_content {
+    text-wrap: nowrap;
+  }
+  .xyz_cen {
+    gap: 5px;
+    flex-direction: column;
+    margin-bottom: 45px;
+  }
+  .data_due1000 {
+    width: 100%;
+  }
+  .flag_panel_on_mode1 {
+    width: 100%;
+  }
+  .Commissions_Prep_Costs_content_box {
+    width: 100%;
+    overflow-x: auto;
+  }
+  .gdteuiopo {
+    width: 100%;
+    overflow-x: auto;
+  }
+  .Projected_array_function1 {
+    overflow-x: auto;
+  }
+  .Closing_Costs_fast_box,
+  .Projected_array_function1 {
+    overflow-x: auto;
+  }
+  .jhfdks0021 {
+    width: 100%;
+  }
+}
