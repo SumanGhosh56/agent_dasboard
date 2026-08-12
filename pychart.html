@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+<style> body { font-family: Arial; display: flex; justify-content: center; align-items: center; height: 100vh; background: #f5f5f5; } .chart-container { width: 300px; text-align: center; } canvas { max-width: 100%; } </style>
+
+
+
+
+<div class="chart-container"> <h3>Task Status</h3> <canvas id="myChart"></canvas> </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script> const ctx = document.getElementById('myChart'); new Chart(ctx, { type: 'pie', data: { labels: ['High', 'Medium', 'Low'], datasets: [{ data: [40, 30, 30], backgroundColor: ['#ff4d4d', '#ffc107', '#28a745'] }] }, options: { responsive: true, plugins: { legend: { position: 'bottom' } } } }); </script>
+
+</body>
+
+</html>
